@@ -2,9 +2,11 @@
 
 Two blocklists, freshly pecked, cleaned, and de-wormed by a flock of cyber-pigeons:
 
-- **🦠 bad.txt** — malware, phishing, C2, shady junk.
-  If it tries to steal your crumbs, it’s in here.
-- **💩 annoying.txt** — trackers, miners, pop-up hoarders, and other digital pigeons.  
+| File | Description | Raw Link |
+|------|--------------|-----------|
+| **🦠 `bad.txt`** | Malware, phishing, C2s, and other crumb-stealing nasties. | [🔗 View Raw](https://raw.githubusercontent.com/PigeonSec/blocklists/refs/heads/main/bad.txt) |
+| **💩 `annoying.txt`** | Trackers, miners, pop-ups, and other digital pigeons. | [🔗 View Raw](https://raw.githubusercontent.com/PigeonSec/blocklists/refs/heads/main/annoying.txt) |
+
 
 Both are perfect snacks for **Pi-hole**, **AdGuard Home**, or any DNS blocker that eats plain text.
 
