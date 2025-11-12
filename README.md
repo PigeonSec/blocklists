@@ -12,16 +12,37 @@ Both are perfect snacks for **Pi-hole**, **AdGuard Home**, or any DNS blocker th
 
 ---
 
-## How they’re made
+## ⚙️ Usage
 
-These aren’t random breadcrumbs — they’re crafted by our in-house super-bird:  
+1. Download either or both `.txt` lists.  
+2. Import them into:
+   - 🧩 **Pi-hole** (`Settings → Adlists`)
+   - 🧱 **AdGuard Home** (`Filters → DNS blocklists`)
+   - or any tool that supports newline-separated domain lists.
+
+Each line is a verified domain — no wildcards, no regex, just clean crumbs.
+
+---
+
+## 🧠 How They’re Made
+
+These aren’t random breadcrumbs — they’re hand-validated by our in-house super-bird:  
 👉 [**Magpie**](https://github.com/PigeonSec/magpie)
 
-Magpie zooms around the internet,  
-grabbing dozens of blocklists, validating every domain,  
-and squashing duplicates faster than a pigeon dodging traffic.
+Magpie uses the supplied list of blocklist URLs:
+- 🪶 Downloads dozens of public blocklists  
+- 🧹 Deduplicates domains  
+- 🔍 Validates each one via DNS resolution (A, AAAA or CNAME)
+- ⚡ Shrinks the noise by **~70%** - only keeping live, resolvable domains  
 
-Built in pure Go, with shiny progress bars because pigeons love flair. 🪶
+### 🐢 Extended Validation (Optional)
+
+For slower, deeper cleaning, Magpie can perform **HTTP validation** on live domains.  
+This checks not just if a domain resolves — but whether it actually hosts a live threat page.
+
+Result: compact, high-quality blocklists with less noise and more bite.
+
+---
 
 
 Made with crumbs, caffeine, and questionable bird noises by PigeonSec.
