@@ -123,3 +123,45 @@ https://big.oisd.nl/
 
 # Cisco Talos Threat Intelligence Domains (last 12 months)
 https://raw.githubusercontent.com/Cisco-Talos/IOCs/main/talos_domains_last_12_months.txt
+
+# Blackbook (Miroslav Stampar) – historische Liste schädlicher Domains, fokussiert auf C2‑Server und Exfiltration
+https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
+
+# Block List Project – Malware (Tägliche Liste mit über 435 000 Malware‑Domänen)
+https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt
+
+# Block List Project – Ransomware (Liste bekannter Ransomware‑Domänen)
+https://raw.githubusercontent.com/blocklistproject/Lists/master/ransomware.txt
+
+# Block List Project – Fraud (Betrugsdomänen)
+https://raw.githubusercontent.com/blocklistproject/Lists/master/fraud.txt
+
+# Block List Project – Scam (Scam‑Domains wie Fake‑Stores, gefälschte Support‑Hotlines usw.)
+https://raw.githubusercontent.com/blocklistproject/Lists/master/scam.txt
+
+# CyberHost Malware & Phishing (kuratierte Liste verifizierter Malware‑ und Phishing‑Domänen)
+https://lists.cyberhost.uk/malware.txt
+
+# KADhosts (Polish Filters Team) – blockt Betrugsseiten, Viren und Fake‑Shops
+https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
+
+# Hexxium Creations Threat List – schützt vor Malware, Betrug, Phishing und täuschenden Inhalten
+https://raw.githubusercontent.com/HexxiumCreations/threatlist/gh-pages/hexxiumthreatlist.txt
+
+# ShadowWhisperer BlockLists – Malware (Malicious Sites, PUPs, Malware, Browser Hijacker, Phishing)
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/main/RAW/Malware
+
+# Global Anti Scam Organization – Scam‑URLs und ‑IPs (Pi‑hole‑Format)
+https://raw.githubusercontent.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/main/global-anti-scam-org-scam-urls-pihole.txt
+
+# NoCoin Cryptominer Blocklist (hosts) – blockiert browserbasiertes Krypto‑Mining
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+
+# Phishing Database – aktive Phishing‑Domains
+https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
+
+# UT1 Blacklist – Malware (Domains, die Malware ausliefern)
+https://raw.githubusercontent.com/olbat/ut1-blacklists/master/malware/domains
+
+# UT1 Blacklist – Phishing (Phishing‑Domains)
+https://raw.githubusercontent.com/olbat/ut1-blacklists/master/phishing/domains
