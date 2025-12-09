@@ -213,3 +213,16 @@ https://v.firebog.net/hosts/Prigent-Ads.txt
 # Updates: Regular
 https://cdn.jsdelivr.net/gh/nextdns/blocklists@latest/ads.txt
 
+# Anudeep's Adservers List - Kuratierter Hosts-Feed gegen Werbung und Tracking (tägliche Updates, ~42 k Domains) [oai_citation:0‡hosts.anudeep.me](https://hosts.anudeep.me/mirror/adservers.txt#:~:text=Host%20file%20to%20block%20ads%2C,)
+https://hosts.anudeep.me/mirror/adservers.txt
+
+# Peter Lowe’s Ad Servers Blocklist - Hosts-Datei, die Werbeserver, Tracker und „other nasty things“ blockiert [oai_citation:1‡pgl.yoyo.org](https://pgl.yoyo.org/adservers/serverlist.php#:~:text=Blocklist%20for%20use%20with%20hosts,this%20URL%3A%20https%3A%2F%2Fpgl.yoyo.org%2Fadservers%2Fserverlist.php%3Fhostformat%3Dhosts%26showintro)
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+
+# SomeoneWhoCares Hosts File - Blockiert Spyware, Pop‑up‑Fallen, Web Bugs und Werbung und reduziert die Bandbreite [oai_citation:2‡someonewhocares.org](https://someonewhocares.org/hosts/#:~:text=,See%20below%20for%20acknowledgements)
+https://someonewhocares.org/hosts/hosts
+
+# MVPS Hosts File - Verhindert Verbindungen zu Werbebannern, 3rd‑Party‑Cookies, Web-Bugs und Hijackern; beschleunigt Seitenaufbau [oai_citation:3‡winhelp2002.mvps.org](https://winhelp2002.mvps.org/hosts.htm#:~:text=What%20it%20does%20)
+https://winhelp2002.mvps.org/hosts.txt
+
+# GoodbyeAds (Host Format) - Programmgesteuerte Liste zum Blocken von Ads, Trackern, Analytics und Malware
