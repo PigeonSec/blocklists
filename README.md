@@ -1,5 +1,11 @@
 # 🐦 PigeonSec Blocklists
 
+## Status
+
+These lists are no longer updated automatically.
+
+The dedicated update server was shut down because it cost too much to keep running. Until a cheaper replacement exists, this repository should be treated as a manual / best-effort snapshot rather than a continuously refreshed feed.
+
 Two blocklists, freshly pecked, cleaned, and de-wormed by a flock of cyber-pigeons:
 
 | File | Description | Raw Link |
@@ -8,7 +14,7 @@ Two blocklists, freshly pecked, cleaned, and de-wormed by a flock of cyber-pigeo
 | **💩 `annoying.txt`** | Trackers, miners, pop-ups, and other digital pigeons. | [🔗 View Raw](https://raw.githubusercontent.com/PigeonSec/blocklists/refs/heads/main/annoying.txt) |
 
 
-Both are perfect snacks for **Pi-hole**, **AdGuard Home**, or any DNS blocker that eats plain text.
+Both are still usable with **Pi-hole**, **AdGuard Home**, or any DNS blocker that eats plain text, but they may now become stale over time.
 
 ---
 
